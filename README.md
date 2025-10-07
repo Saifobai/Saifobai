@@ -59,4 +59,4 @@ export default EmotiDev;
 - 💼 [LinkedIn](https://www.linkedin.com/in/saif-alobaidi-1aa00b210/)
 
 
-
+### Tech Stack 🛠️
