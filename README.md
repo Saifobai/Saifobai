@@ -56,5 +56,9 @@ export default EmotiDev;
 
 
 ```
-Teck stack
+### Tech Stack 🛠️
 ```
+
+```
+### 🌍 Find Me Online
+[💼 LinkedIn](https://www.linkedin.com/in/saif-alobaidi-1aa00b210/)
