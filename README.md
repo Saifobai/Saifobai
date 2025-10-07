@@ -54,3 +54,7 @@ function EmotiDev() {
 
 export default EmotiDev;
 
+
+```
+Teck stack
+```
