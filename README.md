@@ -56,8 +56,7 @@ export default EmotiDev;
 
 ### 🌍 Find Me Online
 
-- 💼 LinkedIn
+- 💼 [LinkedIn](https://www.linkedin.com/in/saif-alobaidi-1aa00b210/)
 
-- 🧠 Portfolio
 
 
