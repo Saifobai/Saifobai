@@ -1,16 +1,63 @@
-## Hi there 👋
+# Hi, I'm [Your Name] 👋  
 
-<!--
-**Saifobai/Saifobai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![banner](https://your-banner-image-link)  
 
-Here are some ideas to get you started:
+🌐 **Full-Stack Developer | AI Engineer | IoT Innovator**  
+🎓 Founder of **EmotiVoice** — Emotion-Aware Assistive Tech  
+💡 Passionate about accessible technology, machine learning, and building smarter web systems.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 What I Do  
+```jsx
+import { useState, useEffect } from "react";
+
+function EmotiDev() {
+  const [motto, setMotto] = useState("Bridging IoT, AI, and the Web 🌐🤖❤️");
+
+  const stack = [
+    "React.js", "Next.js", "Node.js", "MongoDB", 
+    "Python", "Flask", "IoT", "LLMs", "Machine Learning"
+  ];
+
+  const dailyRoutine = [
+    "☕ Wake up & boot sensors",
+    "⚛️ Build responsive UIs in React & Next.js",
+    "🧠 Train and prompt LLMs",
+    "📡 Connect IoT devices to intelligent backends",
+    "💬 Experiment with multimodal AI",
+    "🚀 Deploy, test, repeat"
+  ];
+
+  const currentProjects = {
+    "🎙️ EmotiVoice": "AI-powered assistive communication using IoT & emotion recognition",
+    "🤖 LLM Playground": "Exploring reasoning & RAG pipelines with custom prompts",
+    "🌐 MERN Lab": "Building scalable full-stack web solutions",
+    "📡 Smart IoT Hub": "Integrating sensors and AI for adaptive environments"
+  };
+
+  useEffect(() => {
+    console.log("Code, Create, Connect 🔁");
+  }, []);
+
+  return (
+    <DeveloperLife>
+      <Motto>{motto}</Motto>
+      <Stack>{stack.join(" • ")}</Stack>
+      <Daily>{dailyRoutine.map((task) => <Task key={task}>{task}</Task>)}</Daily>
+      <Projects>{Object.entries(currentProjects).map(([name, desc]) => (
+        <Project key={name} title={name} desc={desc} />
+      ))}</Projects>
+    </DeveloperLife>
+  );
+}
+
+export default EmotiDev;
+
+### 🌍 Find Me Online
+
+- 💼 LinkedIn
+
+- 🧠 Portfolio
+
+
