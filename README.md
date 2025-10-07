@@ -1,6 +1,6 @@
 # Hi, I'm Saif 👋  
 
-![banner](https://your-banner-image-link)  
+![banner](https://github.com/Saifobai/Saifobai/blob/main/ProfileGitHub.png)  
 
 🌐 **Full-Stack Developer | AI Engineer | IoT Innovator**  
 🎓 Founder of **EmotiVoice** — Emotion-Aware Assistive Tech  
